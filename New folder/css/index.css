@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: 'Roboto slab',serif;
+}
+.iteam{
+	background-color: #282e3e;
+	color: #fff;
+	padding: 10px;
+	border-radius: 0px;
+}
+.iteam ul{
+	list-style: none;
+}
+.iteam ul>li{
+	width: 100px; 
+	height: 50px;
+	line-height: 50px;
+	float: left;
+	text-align: center;
+}
+.iteam .navbar-nav>li>a{
+	color: #fff;
+	font-size: 19px;
+	margin-left: 13px;
+}
+.iteam ul>.active{
+	color: #fff;
+	background-color: #82c434;
+}
+.iteam ul>li>a{
+	color: #fff;
+}
+.iteam ul>li:hover{
+	color: #fff;
+	background-color: #82c434;
+}
+a:hover{
+	text-decoration: none;
+	color: #fff;
+	
+}
+.team ul>.dropdown{
+	text-align: inherit;
+}
+.team ul>.dropdown>.dropdown-iteam{
+position: static;
+}
+.slider{
+	width: 1007px;
+	height: 500px;
+	overflow: hidden;
+	background-color: burlywood;
+	position:relative;
+}
+.inner
+{
+	width: 2020px;
+	height: 500px;
+	background-color: goldenrod;
+	animation: 40s anni infinite alternate;
+}
+@keyframes anni{
+	0%{margin-left: -0px;}
+	25%{margin-left: -1007px;}
+}
+.text{
+	width: 100px;
+	height: 30px;
+	background-color: rgba(0,0,0,0.00);
+	margin-left: 400px;
+	margin-top: 50px;
+}
+.button{
+	margin: 20px;
+}
+.team2{
+	margin: 10px;
+}
+.footer1{
+	background-color: #6271C5;
+}

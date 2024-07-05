@@ -1,0 +1,100 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.logo{
+	width: 130px;
+	height: 100px;
+	padding: 5px 0px;
+	margin-top: 0px;
+}
+.my_icon{
+	color: white;
+	
+}
+.my_icon:hover{
+	color: white;
+	
+}
+.my_de{
+	
+	background-color: #3FC0D5;
+}
+.my_a{
+	color: white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 17px;
+}
+.my_a:hover{
+	color: white;
+	
+	
+}
+.foot{
+	height: 200px;
+	width: 300px;
+	margin-top: 40px;
+}
+.pi{
+	color: white;
+}
+.my_ser{
+	margin-left: 50px;
+	padding: 10px 20px;
+	background-color: #3FC0D5;
+	color: white;
+}
+.my_ser:hover{
+	background-color: #3FC0D5;
+	color: white;
+}
+.mynav{
+	background-color: #16144A;
+}
+.mybtn{
+	background-color: #3FC0D5;
+}
+.active{
+	background-color: #3FC0D5;
+}
+.myli:hover{
+	background-color: #3FC0D5;
+}
+.my_ic{
+	margin-top: 20px;
+}
+.footer1{
+	background-color: #0C0D39;
+}
+.h3{
+	color: white;
+	text-align: center;
+}
+.pa{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; 
+	text-align: center;
+	color:white;
+}
+.table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+	width: 100%;
+
+}
+
+td ,th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 3px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.hr{
+	border: 3px solid #3FC0D5;
+}
+.io{
+	width: 100%;
+	height: 400px;
+}

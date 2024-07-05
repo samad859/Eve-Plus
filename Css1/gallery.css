@@ -1,0 +1,152 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.logo{
+	width: 130px;
+	height: 100px;
+	padding: 5px 0px;
+	margin-top: 0px;
+}
+.my_icon{
+	color: white;
+	
+}
+.my_icon:hover{
+	color: white;
+	
+}
+.my_de{
+	
+	background-color: #3FC0D5;
+}
+.my_a{
+	color: white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 17px;
+}
+.my_a:hover{
+	color: white;
+	
+	
+}
+.my_ser{
+	margin-left: 50px;
+	padding: 10px 20px;
+	background-color: #3FC0D5;
+	color: white;
+}
+.my_ser:hover{
+	background-color: #3FC0D5;
+	color: white;
+}
+.mynav{
+	background-color: #16144A;
+}
+.mybtn{
+	background-color: #3FC0D5;
+}
+.active{
+	background-color: #3FC0D5;
+}
+.myli:hover{
+	background-color: #3FC0D5;
+}
+.my_ic{
+	margin-top: 20px;
+}
+.footer1{
+	background-color: #0C0D39;
+}
+.h3{
+	color: white;
+	text-align: center;
+}
+.pa{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	text-align: center;
+	color:white;
+}
+.foot{
+	height: 200px;
+	width: 300px;
+	margin-top: 40px;
+}
+.pi{
+	color: white;
+}
+.ih{
+	color: white;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+.in{
+	margin: 20px;
+	width: 250px;
+	height: 300px;
+	border: 2px solid black;
+}
+.ho{
+	background: radial-gradient(circle,#3FC0D5,#16144A);
+}
+.hr{
+	border: 3px solid #3FC0D5;
+}
+.fg{
+	margin: 10px;
+	width: 300px;
+	height: 300px;
+	border: none;
+}
+.ad{
+	padding: 0px 0px;
+	margin: 10px;
+}
+.p,.p1,.p2,.p3,.p4,.p5,.p6,.p7,.p8,.p9,.p10,.p11,.p12,.p13,.p14,.p15{
+	width: 250px;
+	height: 200px;
+	margin-top: -250px;
+	position: relative;
+	display: none;
+	background-color: rgba(0,0,0,0.51);
+}
+.strikers:hover > .p{
+	display:block;
+}
+.strikers:hover > .p1{
+	display:block;
+}.strikers:hover > .p2{
+	display:block;
+}.strikers:hover >  .p3{
+	display:block;
+}.strikers:hover >  .p4{
+	display:block;
+}
+.strikers:hover >  .p5{
+	display:block;
+}
+.strikers:hover >  .p6{
+	display:block;
+}
+.strikers:hover >  .p7{
+	display:block;
+}.strikers:hover >  .p8{
+	display:block;
+}.strikers:hover >  .p9{
+	display:block;
+}.strikers:hover >  .p10{
+	display:block;
+}.strikers .p11:hover{
+	display:block;
+}.strikers:hover >  .p12{
+	display:block;
+}.strikers:hover >  .p13{
+	display:block;
+}.strikers:hover >  .p14{
+	display:block;
+}.strikers:hover >  .p15{
+	display:block;
+}
+h3{color:white;}
+center{
+	color: white;
+}
